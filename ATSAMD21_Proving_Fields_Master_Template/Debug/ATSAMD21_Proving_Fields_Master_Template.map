@@ -18,6 +18,8 @@ c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../l
 Allocating common symbols
 Common symbol       size              file
 
+_extint_dev         0x40              src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+_current_channel    0x1               src/ASF/sam0/drivers/extint/extint_callback.o
 spi_master_instance
                     0xc               src/lcd.o
 slave               0x3               src/lcd.o
@@ -35,6 +37,359 @@ Discarded input sections
  .ARM.exidx     0x00000000        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
  .ARM.attributes
                 0x00000000       0x1b c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .text          0x00000000        0x0 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .data          0x00000000        0x0 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .bss           0x00000000        0x0 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .text.extint_nmi_set_config
+                0x00000000       0x70 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .text.extint_enable_events
+                0x00000000       0x2c src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .text.extint_disable_events
+                0x00000000       0x2c src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .bss.cpu_irq_critical_section_counter
+                0x00000000        0x4 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .bss.cpu_irq_prev_interrupt_state
+                0x00000000        0x1 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .group         0x00000000        0x8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .text          0x00000000        0x0 src/ASF/sam0/drivers/extint/extint_callback.o
+ .data          0x00000000        0x0 src/ASF/sam0/drivers/extint/extint_callback.o
+ .bss           0x00000000        0x0 src/ASF/sam0/drivers/extint/extint_callback.o
+ .text.extint_unregister_callback
+                0x00000000       0x28 src/ASF/sam0/drivers/extint/extint_callback.o
+ .text.extint_chan_disable_callback
+                0x00000000       0x20 src/ASF/sam0/drivers/extint/extint_callback.o
+ .text.extint_get_current_channel
+                0x00000000        0xc src/ASF/sam0/drivers/extint/extint_callback.o
+ .bss.cpu_irq_critical_section_counter
+                0x00000000        0x4 src/ASF/sam0/drivers/extint/extint_callback.o
+ .bss.cpu_irq_prev_interrupt_state
+                0x00000000        0x1 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x8c2 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x16d src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x6d7 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x22 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x87 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x51 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0xef src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x6a src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x1df src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x10 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x76 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x6db src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0xdd8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x22 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x40 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x3a src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x1f src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x250 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x681 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x8b5 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x230 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0xd60 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x4cb src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x9f8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x82b src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x455 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x5e src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x8fd src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x21c src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x95b src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x5e src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x667 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x3af src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0xc7a src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000     0x1092 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0xc4a src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x6ba src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000     0x1bbf src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000     0x1440 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x344 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x7c src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0xa0 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0xca src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x94 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x58 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x37d src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x82 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x18d src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0xb8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0xa0 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0xb8 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x1c src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x1c src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x1c src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x82 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x15a src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0xdc src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x128 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x128 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x128 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x128 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x128 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x128 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x124 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0xe2 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0xe2 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0xe2 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0xe2 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0xe2 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x130 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x106 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0xfa src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x40f src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x40 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x37d src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000     0x1e52 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x6d src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x58 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x35 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x9c src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x35 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x353 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x10 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x58 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x1f src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x43 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x20 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x187 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x10 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x1c src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x52 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x40 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x10 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x40 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0xd7 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x18b src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x29 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x51 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x3e src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000      0x3df src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00000000       0x18 src/ASF/sam0/drivers/extint/extint_callback.o
  .group         0x00000000        0x8 src/ASF/common2/services/delay/sam0/systick_counter.o
  .group         0x00000000        0x8 src/ASF/common2/services/delay/sam0/systick_counter.o
  .group         0x00000000        0x8 src/ASF/common2/services/delay/sam0/systick_counter.o
@@ -153,6 +508,113 @@ Discarded input sections
                 0x00000000        0x4 src/ASF/common2/services/delay/sam0/systick_counter.o
  .bss.cpu_irq_prev_interrupt_state
                 0x00000000        0x1 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x8c2 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x16d src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x6d7 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x22 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x87 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x51 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0xef src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x6a src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x1df src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x10 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x76 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x16 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x6db src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0xdd8 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x22 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x40 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x3a src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x1f src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x250 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x681 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x8b5 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x230 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0xd60 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x4cb src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x9f8 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x82b src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x455 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x5e src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x8fd src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x21c src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x95b src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x5e src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x667 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x3af src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0xc7a src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000     0x1092 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0xc4a src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x6ba src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000     0x1bbf src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000     0x1440 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x344 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x7c src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0xa0 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x4c src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0xca src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x94 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x58 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x37d src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x82 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x18d src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0xb8 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0xa0 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0xb8 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x1c src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x1c src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x1c src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x82 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x15a src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0xdc src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x128 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x128 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x128 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x128 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x128 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x128 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x124 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0xe2 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0xe2 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0xe2 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0xe2 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0xe2 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x130 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x106 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0xfa src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x40f src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x40 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x37d src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000     0x1e52 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x6d src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x58 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x35 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x9c src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x16 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x35 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x353 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x10 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x58 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x1f src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x43 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x20 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x187 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x10 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x1c src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x52 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x40 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x10 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x40 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0xd7 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x16 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x18b src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x16 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x16 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x29 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x51 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x3e src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000      0x3df src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00000000       0x11 src/ASF/common2/services/delay/sam0/systick_counter.o
  .group         0x00000000        0x8 src/ASF/sam0/drivers/sercom/sercom.o
  .group         0x00000000        0x8 src/ASF/sam0/drivers/sercom/sercom.o
  .group         0x00000000        0x8 src/ASF/sam0/drivers/sercom/sercom.o
@@ -276,7 +738,7 @@ Discarded input sections
                 0x00000000        0x4 src/ASF/sam0/drivers/sercom/sercom.o
  .bss.cpu_irq_prev_interrupt_state
                 0x00000000        0x1 src/ASF/sam0/drivers/sercom/sercom.o
- .debug_macro   0x00000000      0x8bc src/ASF/sam0/drivers/sercom/sercom.o
+ .debug_macro   0x00000000      0x8c2 src/ASF/sam0/drivers/sercom/sercom.o
  .debug_macro   0x00000000      0x16d src/ASF/sam0/drivers/sercom/sercom.o
  .debug_macro   0x00000000      0x6d7 src/ASF/sam0/drivers/sercom/sercom.o
  .debug_macro   0x00000000       0x22 src/ASF/sam0/drivers/sercom/sercom.o
@@ -383,6 +845,9 @@ Discarded input sections
  .debug_macro   0x00000000       0x3e src/ASF/sam0/drivers/sercom/sercom.o
  .debug_macro   0x00000000      0x3df src/ASF/sam0/drivers/sercom/sercom.o
  .debug_macro   0x00000000       0x11 src/ASF/sam0/drivers/sercom/sercom.o
+ .debug_macro   0x00000000       0x18 src/ASF/sam0/drivers/sercom/sercom.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam0/drivers/sercom/sercom.o
+ .debug_macro   0x00000000       0x2e src/ASF/sam0/drivers/sercom/sercom.o
  .group         0x00000000        0x8 src/ASF/sam0/drivers/sercom/spi/spi.o
  .group         0x00000000        0x8 src/ASF/sam0/drivers/sercom/spi/spi.o
  .group         0x00000000        0x8 src/ASF/sam0/drivers/sercom/spi/spi.o
@@ -518,7 +983,7 @@ Discarded input sections
                 0x00000000        0x4 src/ASF/sam0/drivers/sercom/spi/spi.o
  .bss.cpu_irq_prev_interrupt_state
                 0x00000000        0x1 src/ASF/sam0/drivers/sercom/spi/spi.o
- .debug_macro   0x00000000      0x8bc src/ASF/sam0/drivers/sercom/spi/spi.o
+ .debug_macro   0x00000000      0x8c2 src/ASF/sam0/drivers/sercom/spi/spi.o
  .debug_macro   0x00000000      0x16d src/ASF/sam0/drivers/sercom/spi/spi.o
  .debug_macro   0x00000000      0x6d7 src/ASF/sam0/drivers/sercom/spi/spi.o
  .debug_macro   0x00000000       0x22 src/ASF/sam0/drivers/sercom/spi/spi.o
@@ -751,6 +1216,7 @@ Discarded input sections
  .group         0x00000000        0x8 src/lcd.o
  .group         0x00000000        0x8 src/lcd.o
  .group         0x00000000        0x8 src/lcd.o
+ .group         0x00000000        0x8 src/lcd.o
  .text          0x00000000        0x0 src/lcd.o
  .data          0x00000000        0x0 src/lcd.o
  .bss           0x00000000        0x0 src/lcd.o
@@ -783,7 +1249,7 @@ Discarded input sections
  .bss.cpu_irq_prev_interrupt_state
                 0x00000000        0x1 src/lcd.o
  .rodata.ASCII  0x00000000      0x1e0 src/lcd.o
- .debug_macro   0x00000000      0x8bc src/lcd.o
+ .debug_macro   0x00000000      0x8c2 src/lcd.o
  .debug_macro   0x00000000      0x16d src/lcd.o
  .debug_macro   0x00000000      0x6d7 src/lcd.o
  .debug_macro   0x00000000       0x22 src/lcd.o
@@ -893,7 +1359,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x16 src/lcd.o
  .debug_macro   0x00000000       0x16 src/lcd.o
  .debug_macro   0x00000000       0x18 src/lcd.o
- .debug_macro   0x00000000       0x12 src/lcd.o
+ .debug_macro   0x00000000       0x19 src/lcd.o
  .debug_macro   0x00000000       0x16 src/lcd.o
  .debug_macro   0x00000000       0x2e src/lcd.o
  .debug_macro   0x00000000       0xb2 src/lcd.o
@@ -1010,7 +1476,7 @@ Discarded input sections
  .text          0x00000000        0x0 src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
  .data          0x00000000        0x0 src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
  .bss           0x00000000        0x0 src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
- .debug_macro   0x00000000      0x8bc src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
+ .debug_macro   0x00000000      0x8c2 src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
  .debug_macro   0x00000000      0x16d src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
  .debug_macro   0x00000000      0x6d7 src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
  .debug_macro   0x00000000       0x22 src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
@@ -1233,7 +1699,7 @@ Discarded input sections
                 0x00000000        0x4 src/ASF/sam0/boards/samd21_xplained_pro/board_init.o
  .bss.cpu_irq_prev_interrupt_state
                 0x00000000        0x1 src/ASF/sam0/boards/samd21_xplained_pro/board_init.o
- .debug_macro   0x00000000      0x8bc src/ASF/sam0/boards/samd21_xplained_pro/board_init.o
+ .debug_macro   0x00000000      0x8c2 src/ASF/sam0/boards/samd21_xplained_pro/board_init.o
  .debug_macro   0x00000000      0x16d src/ASF/sam0/boards/samd21_xplained_pro/board_init.o
  .debug_macro   0x00000000      0x6d7 src/ASF/sam0/boards/samd21_xplained_pro/board_init.o
  .debug_macro   0x00000000       0x22 src/ASF/sam0/boards/samd21_xplained_pro/board_init.o
@@ -1460,7 +1926,7 @@ Discarded input sections
                 0x00000000        0x4 src/ASF/sam0/drivers/port/port.o
  .bss.cpu_irq_prev_interrupt_state
                 0x00000000        0x1 src/ASF/sam0/drivers/port/port.o
- .debug_macro   0x00000000      0x8bc src/ASF/sam0/drivers/port/port.o
+ .debug_macro   0x00000000      0x8c2 src/ASF/sam0/drivers/port/port.o
  .debug_macro   0x00000000      0x16d src/ASF/sam0/drivers/port/port.o
  .debug_macro   0x00000000      0x6d7 src/ASF/sam0/drivers/port/port.o
  .debug_macro   0x00000000       0x22 src/ASF/sam0/drivers/port/port.o
@@ -1701,7 +2167,7 @@ Discarded input sections
                 0x00000000        0x4 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
  .bss.cpu_irq_prev_interrupt_state
                 0x00000000        0x1 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
- .debug_macro   0x00000000      0x8bc src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
+ .debug_macro   0x00000000      0x8c2 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
  .debug_macro   0x00000000      0x16d src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
  .debug_macro   0x00000000      0x6d7 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
  .debug_macro   0x00000000       0x22 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
@@ -1935,7 +2401,7 @@ Discarded input sections
                 0x00000000        0x4 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
  .bss.cpu_irq_prev_interrupt_state
                 0x00000000        0x1 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
- .debug_macro   0x00000000      0x8bc src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
+ .debug_macro   0x00000000      0x8c2 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
  .debug_macro   0x00000000      0x16d src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
  .debug_macro   0x00000000      0x6d7 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
  .debug_macro   0x00000000       0x22 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
@@ -2174,7 +2640,7 @@ Discarded input sections
                 0x00000000       0x40 src/ASF/sam0/drivers/system/interrupt/system_interrupt.o
  .debug_ranges  0x00000000       0x30 src/ASF/sam0/drivers/system/interrupt/system_interrupt.o
  .debug_macro   0x00000000      0x52b src/ASF/sam0/drivers/system/interrupt/system_interrupt.o
- .debug_macro   0x00000000      0x8bc src/ASF/sam0/drivers/system/interrupt/system_interrupt.o
+ .debug_macro   0x00000000      0x8c2 src/ASF/sam0/drivers/system/interrupt/system_interrupt.o
  .debug_macro   0x00000000      0x16d src/ASF/sam0/drivers/system/interrupt/system_interrupt.o
  .debug_macro   0x00000000      0x6d7 src/ASF/sam0/drivers/system/interrupt/system_interrupt.o
  .debug_macro   0x00000000       0x22 src/ASF/sam0/drivers/system/interrupt/system_interrupt.o
@@ -2282,7 +2748,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x3df src/ASF/sam0/drivers/system/interrupt/system_interrupt.o
  .debug_macro   0x00000000       0x2e src/ASF/sam0/drivers/system/interrupt/system_interrupt.o
  .debug_line    0x00000000      0x9b2 src/ASF/sam0/drivers/system/interrupt/system_interrupt.o
- .debug_str     0x00000000    0x8382d src/ASF/sam0/drivers/system/interrupt/system_interrupt.o
+ .debug_str     0x00000000    0x83847 src/ASF/sam0/drivers/system/interrupt/system_interrupt.o
  .comment       0x00000000       0x5a src/ASF/sam0/drivers/system/interrupt/system_interrupt.o
  .debug_frame   0x00000000       0x74 src/ASF/sam0/drivers/system/interrupt/system_interrupt.o
  .ARM.attributes
@@ -2407,7 +2873,7 @@ Discarded input sections
                 0x00000000        0x4 src/ASF/sam0/drivers/system/pinmux/pinmux.o
  .bss.cpu_irq_prev_interrupt_state
                 0x00000000        0x1 src/ASF/sam0/drivers/system/pinmux/pinmux.o
- .debug_macro   0x00000000      0x8bc src/ASF/sam0/drivers/system/pinmux/pinmux.o
+ .debug_macro   0x00000000      0x8c2 src/ASF/sam0/drivers/system/pinmux/pinmux.o
  .debug_macro   0x00000000      0x16d src/ASF/sam0/drivers/system/pinmux/pinmux.o
  .debug_macro   0x00000000      0x6d7 src/ASF/sam0/drivers/system/pinmux/pinmux.o
  .debug_macro   0x00000000       0x22 src/ASF/sam0/drivers/system/pinmux/pinmux.o
@@ -2629,7 +3095,7 @@ Discarded input sections
                 0x00000000        0x4 src/ASF/sam0/drivers/system/system.o
  .bss.cpu_irq_prev_interrupt_state
                 0x00000000        0x1 src/ASF/sam0/drivers/system/system.o
- .debug_macro   0x00000000      0x8bc src/ASF/sam0/drivers/system/system.o
+ .debug_macro   0x00000000      0x8c2 src/ASF/sam0/drivers/system/system.o
  .debug_macro   0x00000000      0x16d src/ASF/sam0/drivers/system/system.o
  .debug_macro   0x00000000      0x6d7 src/ASF/sam0/drivers/system/system.o
  .debug_macro   0x00000000       0x22 src/ASF/sam0/drivers/system/system.o
@@ -2812,7 +3278,7 @@ Discarded input sections
  .text          0x00000000        0x0 src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
  .data          0x00000000        0x0 src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
  .bss           0x00000000        0x0 src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
- .debug_macro   0x00000000      0x8bc src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
+ .debug_macro   0x00000000      0x8c2 src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
  .debug_macro   0x00000000       0x22 src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
  .debug_macro   0x00000000       0x87 src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
  .debug_macro   0x00000000       0x51 src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
@@ -2968,7 +3434,7 @@ Discarded input sections
                 0x00000000       0x28 src/ASF/sam0/utils/cmsis/samd21/source/system_samd21.o
  .debug_ranges  0x00000000       0x18 src/ASF/sam0/utils/cmsis/samd21/source/system_samd21.o
  .debug_macro   0x00000000      0x2ff src/ASF/sam0/utils/cmsis/samd21/source/system_samd21.o
- .debug_macro   0x00000000      0x8bc src/ASF/sam0/utils/cmsis/samd21/source/system_samd21.o
+ .debug_macro   0x00000000      0x8c2 src/ASF/sam0/utils/cmsis/samd21/source/system_samd21.o
  .debug_macro   0x00000000       0x22 src/ASF/sam0/utils/cmsis/samd21/source/system_samd21.o
  .debug_macro   0x00000000       0x87 src/ASF/sam0/utils/cmsis/samd21/source/system_samd21.o
  .debug_macro   0x00000000       0x51 src/ASF/sam0/utils/cmsis/samd21/source/system_samd21.o
@@ -3040,7 +3506,7 @@ Discarded input sections
  .debug_macro   0x00000000     0x1e52 src/ASF/sam0/utils/cmsis/samd21/source/system_samd21.o
  .debug_macro   0x00000000       0x6d src/ASF/sam0/utils/cmsis/samd21/source/system_samd21.o
  .debug_line    0x00000000      0x614 src/ASF/sam0/utils/cmsis/samd21/source/system_samd21.o
- .debug_str     0x00000000    0x6d234 src/ASF/sam0/utils/cmsis/samd21/source/system_samd21.o
+ .debug_str     0x00000000    0x6d24e src/ASF/sam0/utils/cmsis/samd21/source/system_samd21.o
  .comment       0x00000000       0x5a src/ASF/sam0/utils/cmsis/samd21/source/system_samd21.o
  .debug_frame   0x00000000       0x30 src/ASF/sam0/utils/cmsis/samd21/source/system_samd21.o
  .ARM.attributes
@@ -3100,7 +3566,7 @@ Discarded input sections
                 0x00000000       0x60 src/ASF/sam0/utils/syscalls/gcc/syscalls.o
  .debug_ranges  0x00000000       0x50 src/ASF/sam0/utils/syscalls/gcc/syscalls.o
  .debug_macro   0x00000000      0x1d6 src/ASF/sam0/utils/syscalls/gcc/syscalls.o
- .debug_macro   0x00000000      0x8bc src/ASF/sam0/utils/syscalls/gcc/syscalls.o
+ .debug_macro   0x00000000      0x8c2 src/ASF/sam0/utils/syscalls/gcc/syscalls.o
  .debug_macro   0x00000000       0x22 src/ASF/sam0/utils/syscalls/gcc/syscalls.o
  .debug_macro   0x00000000       0x52 src/ASF/sam0/utils/syscalls/gcc/syscalls.o
  .debug_macro   0x00000000       0x8d src/ASF/sam0/utils/syscalls/gcc/syscalls.o
@@ -3135,11 +3601,12 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 src/ASF/sam0/utils/syscalls/gcc/syscalls.o
  .debug_macro   0x00000000      0x122 src/ASF/sam0/utils/syscalls/gcc/syscalls.o
  .debug_line    0x00000000      0x409 src/ASF/sam0/utils/syscalls/gcc/syscalls.o
- .debug_str     0x00000000     0x73ca src/ASF/sam0/utils/syscalls/gcc/syscalls.o
+ .debug_str     0x00000000     0x73e4 src/ASF/sam0/utils/syscalls/gcc/syscalls.o
  .comment       0x00000000       0x5a src/ASF/sam0/utils/syscalls/gcc/syscalls.o
  .debug_frame   0x00000000       0xa0 src/ASF/sam0/utils/syscalls/gcc/syscalls.o
  .ARM.attributes
                 0x00000000       0x32 src/ASF/sam0/utils/syscalls/gcc/syscalls.o
+ .group         0x00000000        0x8 src/main.o
  .group         0x00000000        0x8 src/main.o
  .group         0x00000000        0x8 src/main.o
  .group         0x00000000        0x8 src/main.o
@@ -3268,7 +3735,7 @@ Discarded input sections
                 0x00000000        0x4 src/main.o
  .bss.cpu_irq_prev_interrupt_state
                 0x00000000        0x1 src/main.o
- .debug_macro   0x00000000      0x8bc src/main.o
+ .debug_macro   0x00000000      0x8c2 src/main.o
  .debug_macro   0x00000000      0x16d src/main.o
  .debug_macro   0x00000000      0x6d7 src/main.o
  .debug_macro   0x00000000       0x22 src/main.o
@@ -3377,10 +3844,11 @@ Discarded input sections
  .debug_macro   0x00000000       0x11 src/main.o
  .debug_macro   0x00000000       0x16 src/main.o
  .debug_macro   0x00000000       0x16 src/main.o
+ .debug_macro   0x00000000       0x18 src/main.o
+ .debug_macro   0x00000000       0x19 src/main.o
  .debug_macro   0x00000000      0x2c3 src/main.o
  .debug_macro   0x00000000      0x9f4 src/main.o
  .debug_macro   0x00000000       0x18 src/main.o
- .debug_macro   0x00000000       0x12 src/main.o
  .debug_macro   0x00000000       0x16 src/main.o
  .debug_macro   0x00000000       0x2e src/main.o
  .debug_macro   0x00000000       0xb2 src/main.o
@@ -3445,6 +3913,8 @@ Linker script and memory map
 LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crti.o
 LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtbegin.o
 LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+LOAD src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+LOAD src/ASF/sam0/drivers/extint/extint_callback.o
 LOAD src/ASF/common2/services/delay/sam0/systick_counter.o
 LOAD src/ASF/sam0/drivers/sercom/sercom.o
 LOAD src/ASF/sam0/drivers/sercom/spi/spi.o
@@ -3477,7 +3947,7 @@ LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin
 LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtn.o
                 0x00002000                STACK_SIZE = DEFINED (STACK_SIZE)?STACK_SIZE:DEFINED (__stack_size__)?__stack_size__:0x2000
 
-.text           0x00000000     0x1764
+.text           0x00000000     0x197c
                 0x00000000                . = ALIGN (0x4)
                 0x00000000                _sfixed = .
  *(.vectors .vectors.*)
@@ -3485,258 +3955,285 @@ LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin
                 0x00000000                exception_table
  *(.text .text.* .gnu.linkonce.t.*)
  .text          0x000000b4       0x60 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtbegin.o
+ .text._extint_enable
+                0x00000114       0x18 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .text._system_extint_init
+                0x0000012c       0x6c src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+                0x0000012c                _system_extint_init
+ .text.extint_chan_get_config_defaults
+                0x00000198       0x14 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+                0x00000198                extint_chan_get_config_defaults
+ .text.extint_chan_set_config
+                0x000001ac       0x78 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+                0x000001ac                extint_chan_set_config
+ .text.extint_register_callback
+                0x00000224       0x2c src/ASF/sam0/drivers/extint/extint_callback.o
+                0x00000224                extint_register_callback
+ .text.extint_chan_enable_callback
+                0x00000250       0x20 src/ASF/sam0/drivers/extint/extint_callback.o
+                0x00000250                extint_chan_enable_callback
+ .text.EIC_Handler
+                0x00000270       0x54 src/ASF/sam0/drivers/extint/extint_callback.o
+                0x00000270                EIC_Handler
  .text.delay_init
-                0x00000114       0x40 src/ASF/common2/services/delay/sam0/systick_counter.o
-                0x00000114                delay_init
+                0x000002c4       0x40 src/ASF/common2/services/delay/sam0/systick_counter.o
+                0x000002c4                delay_init
  .text.delay_cycles_ms
-                0x00000154       0x2c src/ASF/common2/services/delay/sam0/systick_counter.o
-                0x00000154                delay_cycles_ms
+                0x00000304       0x2c src/ASF/common2/services/delay/sam0/systick_counter.o
+                0x00000304                delay_cycles_ms
  .text._sercom_get_sync_baud_val
-                0x00000180       0x28 src/ASF/sam0/drivers/sercom/sercom.o
-                0x00000180                _sercom_get_sync_baud_val
+                0x00000330       0x28 src/ASF/sam0/drivers/sercom/sercom.o
+                0x00000330                _sercom_get_sync_baud_val
  .text.sercom_set_gclk_generator
-                0x000001a8       0x4c src/ASF/sam0/drivers/sercom/sercom.o
-                0x000001a8                sercom_set_gclk_generator
+                0x00000358       0x4c src/ASF/sam0/drivers/sercom/sercom.o
+                0x00000358                sercom_set_gclk_generator
  .text._sercom_get_default_pad
-                0x000001f4      0x178 src/ASF/sam0/drivers/sercom/sercom.o
-                0x000001f4                _sercom_get_default_pad
+                0x000003a4      0x178 src/ASF/sam0/drivers/sercom/sercom.o
+                0x000003a4                _sercom_get_default_pad
  .text._sercom_get_sercom_inst_index
-                0x0000036c       0x38 src/ASF/sam0/drivers/sercom/sercom.o
-                0x0000036c                _sercom_get_sercom_inst_index
+                0x0000051c       0x38 src/ASF/sam0/drivers/sercom/sercom.o
+                0x0000051c                _sercom_get_sercom_inst_index
  .text.spi_init
-                0x000003a4      0x334 src/ASF/sam0/drivers/sercom/spi/spi.o
-                0x000003a4                spi_init
+                0x00000554      0x334 src/ASF/sam0/drivers/sercom/spi/spi.o
+                0x00000554                spi_init
  .text.spi_select_slave
-                0x000006d8       0xf4 src/ASF/sam0/drivers/sercom/spi/spi.o
-                0x000006d8                spi_select_slave
+                0x00000888       0xf4 src/ASF/sam0/drivers/sercom/spi/spi.o
+                0x00000888                spi_select_slave
  .text.configure_port_pins
-                0x000007cc       0x20 src/lcd.o
-                0x000007cc                configure_port_pins
+                0x0000097c       0x20 src/lcd.o
+                0x0000097c                configure_port_pins
  .text.configure_spi_master
-                0x000007ec       0xc0 src/lcd.o
-                0x000007ec                configure_spi_master
- .text.spi_io   0x000008ac       0x14 src/lcd.o
-                0x000008ac                spi_io
+                0x0000099c       0xc0 src/lcd.o
+                0x0000099c                configure_spi_master
+ .text.spi_io   0x00000a5c       0x14 src/lcd.o
+                0x00000a5c                spi_io
  .text.LCD_command
-                0x000008c0       0x40 src/lcd.o
-                0x000008c0                LCD_command
+                0x00000a70       0x40 src/lcd.o
+                0x00000a70                LCD_command
  .text.LCD_data
-                0x00000900       0x40 src/lcd.o
-                0x00000900                LCD_data
+                0x00000ab0       0x40 src/lcd.o
+                0x00000ab0                LCD_data
  .text.LCD_data16
-                0x00000940       0x4c src/lcd.o
-                0x00000940                LCD_data16
+                0x00000af0       0x4c src/lcd.o
+                0x00000af0                LCD_data16
  .text.LCD_init
-                0x0000098c      0x1d8 src/lcd.o
-                0x0000098c                LCD_init
+                0x00000b3c      0x1d8 src/lcd.o
+                0x00000b3c                LCD_init
  .text.LCD_setAddr
-                0x00000b64       0x38 src/lcd.o
-                0x00000b64                LCD_setAddr
+                0x00000d14       0x38 src/lcd.o
+                0x00000d14                LCD_setAddr
  .text.LCD_clearScreen
-                0x00000b9c       0x2c src/lcd.o
-                0x00000b9c                LCD_clearScreen
+                0x00000d4c       0x2c src/lcd.o
+                0x00000d4c                LCD_clearScreen
  .text.cpu_irq_enter_critical
-                0x00000bc8       0x40 src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
-                0x00000bc8                cpu_irq_enter_critical
+                0x00000d78       0x40 src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
+                0x00000d78                cpu_irq_enter_critical
  .text.cpu_irq_leave_critical
-                0x00000c08       0x30 src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
-                0x00000c08                cpu_irq_leave_critical
+                0x00000db8       0x30 src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
+                0x00000db8                cpu_irq_leave_critical
  .text.system_board_init
-                0x00000c38       0x38 src/ASF/sam0/boards/samd21_xplained_pro/board_init.o
-                0x00000c38                board_init
-                0x00000c38                system_board_init
+                0x00000de8       0x38 src/ASF/sam0/boards/samd21_xplained_pro/board_init.o
+                0x00000de8                board_init
+                0x00000de8                system_board_init
  .text.port_pin_set_config
-                0x00000c70       0x24 src/ASF/sam0/drivers/port/port.o
-                0x00000c70                port_pin_set_config
+                0x00000e20       0x24 src/ASF/sam0/drivers/port/port.o
+                0x00000e20                port_pin_set_config
  .text.system_clock_source_get_hz
-                0x00000c94       0x94 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
-                0x00000c94                system_clock_source_get_hz
+                0x00000e44       0x94 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
+                0x00000e44                system_clock_source_get_hz
  .text.system_clock_source_osc8m_set_config
-                0x00000d28       0x3c src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
-                0x00000d28                system_clock_source_osc8m_set_config
+                0x00000ed8       0x3c src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
+                0x00000ed8                system_clock_source_osc8m_set_config
  .text.system_clock_source_xosc32k_set_config
-                0x00000d64       0xb8 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
-                0x00000d64                system_clock_source_xosc32k_set_config
+                0x00000f14       0xb8 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
+                0x00000f14                system_clock_source_xosc32k_set_config
  .text.system_clock_source_dfll_set_config
-                0x00000e1c       0x80 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
-                0x00000e1c                system_clock_source_dfll_set_config
+                0x00000fcc       0x80 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
+                0x00000fcc                system_clock_source_dfll_set_config
  .text.system_clock_source_enable
-                0x00000e9c       0xa8 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
-                0x00000e9c                system_clock_source_enable
+                0x0000104c       0xa8 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
+                0x0000104c                system_clock_source_enable
  .text.system_clock_init
-                0x00000f44      0x15c src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
-                0x00000f44                system_clock_init
+                0x000010f4      0x15c src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
+                0x000010f4                system_clock_init
  .text.system_gclk_init
-                0x000010a0       0x24 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
-                0x000010a0                system_gclk_init
+                0x00001250       0x24 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
+                0x00001250                system_gclk_init
  .text.system_gclk_gen_set_config
-                0x000010c4       0xb8 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
-                0x000010c4                system_gclk_gen_set_config
+                0x00001274       0xb8 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
+                0x00001274                system_gclk_gen_set_config
  .text.system_gclk_gen_enable
-                0x0000117c       0x44 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
-                0x0000117c                system_gclk_gen_enable
+                0x0000132c       0x44 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
+                0x0000132c                system_gclk_gen_enable
  .text.system_gclk_gen_get_hz
-                0x000011c0       0x8c src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
-                0x000011c0                system_gclk_gen_get_hz
+                0x00001370       0x8c src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
+                0x00001370                system_gclk_gen_get_hz
  .text.system_gclk_chan_enable
-                0x0000124c       0x30 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
-                0x0000124c                system_gclk_chan_enable
+                0x000013fc       0x30 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
+                0x000013fc                system_gclk_chan_enable
  .text.system_gclk_chan_disable
-                0x0000127c       0x5c src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
-                0x0000127c                system_gclk_chan_disable
+                0x0000142c       0x5c src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
+                0x0000142c                system_gclk_chan_disable
  .text.system_gclk_chan_set_config
-                0x000012d8       0x1c src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
-                0x000012d8                system_gclk_chan_set_config
+                0x00001488       0x1c src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
+                0x00001488                system_gclk_chan_set_config
  .text.system_gclk_chan_get_hz
-                0x000012f4       0x34 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
-                0x000012f4                system_gclk_chan_get_hz
+                0x000014a4       0x34 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
+                0x000014a4                system_gclk_chan_get_hz
  .text._system_pinmux_config
-                0x00001328       0xa8 src/ASF/sam0/drivers/system/pinmux/pinmux.o
+                0x000014d8       0xa8 src/ASF/sam0/drivers/system/pinmux/pinmux.o
  .text.system_pinmux_pin_set_config
-                0x000013d0       0x30 src/ASF/sam0/drivers/system/pinmux/pinmux.o
-                0x000013d0                system_pinmux_pin_set_config
+                0x00001580       0x30 src/ASF/sam0/drivers/system/pinmux/pinmux.o
+                0x00001580                system_pinmux_pin_set_config
  .text._system_dummy_init
-                0x00001400        0x2 src/ASF/sam0/drivers/system/system.o
-                0x00001400                _system_extint_init
-                0x00001400                _system_events_init
-                0x00001400                _system_dummy_init
-                0x00001400                _system_divas_init
- *fill*         0x00001402        0x2 
+                0x000015b0        0x2 src/ASF/sam0/drivers/system/system.o
+                0x000015b0                _system_events_init
+                0x000015b0                _system_dummy_init
+                0x000015b0                _system_divas_init
+ *fill*         0x000015b2        0x2 
  .text.system_init
-                0x00001404       0x2c src/ASF/sam0/drivers/system/system.o
-                0x00001404                system_init
+                0x000015b4       0x2c src/ASF/sam0/drivers/system/system.o
+                0x000015b4                system_init
  .text.Dummy_Handler
-                0x00001430        0x2 src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
-                0x00001430                DMAC_Handler
-                0x00001430                HardFault_Handler
-                0x00001430                AC_Handler
-                0x00001430                SysTick_Handler
-                0x00001430                PendSV_Handler
-                0x00001430                NMI_Handler
-                0x00001430                TC7_Handler
-                0x00001430                SERCOM1_Handler
-                0x00001430                ADC_Handler
-                0x00001430                TCC1_Handler
-                0x00001430                SERCOM2_Handler
-                0x00001430                TCC0_Handler
-                0x00001430                RTC_Handler
-                0x00001430                EIC_Handler
-                0x00001430                TC6_Handler
-                0x00001430                WDT_Handler
-                0x00001430                TC4_Handler
-                0x00001430                USB_Handler
-                0x00001430                TC3_Handler
-                0x00001430                Dummy_Handler
-                0x00001430                PM_Handler
-                0x00001430                SERCOM5_Handler
-                0x00001430                SVC_Handler
-                0x00001430                TCC2_Handler
-                0x00001430                EVSYS_Handler
-                0x00001430                SERCOM3_Handler
-                0x00001430                SERCOM4_Handler
-                0x00001430                I2S_Handler
-                0x00001430                NVMCTRL_Handler
-                0x00001430                SERCOM0_Handler
-                0x00001430                DAC_Handler
-                0x00001430                PTC_Handler
-                0x00001430                TC5_Handler
-                0x00001430                SYSCTRL_Handler
- *fill*         0x00001432        0x2 
+                0x000015e0        0x2 src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
+                0x000015e0                DMAC_Handler
+                0x000015e0                HardFault_Handler
+                0x000015e0                AC_Handler
+                0x000015e0                SysTick_Handler
+                0x000015e0                PendSV_Handler
+                0x000015e0                NMI_Handler
+                0x000015e0                TC7_Handler
+                0x000015e0                SERCOM1_Handler
+                0x000015e0                ADC_Handler
+                0x000015e0                TCC1_Handler
+                0x000015e0                SERCOM2_Handler
+                0x000015e0                TCC0_Handler
+                0x000015e0                RTC_Handler
+                0x000015e0                TC6_Handler
+                0x000015e0                WDT_Handler
+                0x000015e0                TC4_Handler
+                0x000015e0                USB_Handler
+                0x000015e0                TC3_Handler
+                0x000015e0                Dummy_Handler
+                0x000015e0                PM_Handler
+                0x000015e0                SERCOM5_Handler
+                0x000015e0                SVC_Handler
+                0x000015e0                TCC2_Handler
+                0x000015e0                EVSYS_Handler
+                0x000015e0                SERCOM3_Handler
+                0x000015e0                SERCOM4_Handler
+                0x000015e0                I2S_Handler
+                0x000015e0                NVMCTRL_Handler
+                0x000015e0                SERCOM0_Handler
+                0x000015e0                DAC_Handler
+                0x000015e0                PTC_Handler
+                0x000015e0                TC5_Handler
+                0x000015e0                SYSCTRL_Handler
+ *fill*         0x000015e2        0x2 
  .text.Reset_Handler
-                0x00001434       0xe4 src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
-                0x00001434                Reset_Handler
- .text.main     0x00001518       0x5c src/main.o
-                0x00001518                main
- .text          0x00001574      0x114 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_udivsi3.o)
-                0x00001574                __aeabi_uidiv
-                0x00001574                __udivsi3
-                0x00001680                __aeabi_uidivmod
- .text          0x00001688        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_dvmd_tls.o)
-                0x00001688                __aeabi_idiv0
-                0x00001688                __aeabi_ldiv0
+                0x000015e4       0xe4 src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
+                0x000015e4                Reset_Handler
+ .text.extint_detection_callback
+                0x000016c8       0x10 src/main.o
+                0x000016c8                extint_detection_callback
+ .text.configure_extint_channel
+                0x000016d8       0x30 src/main.o
+                0x000016d8                configure_extint_channel
+ .text.configure_extint_callbacks
+                0x00001708       0x24 src/main.o
+                0x00001708                configure_extint_callbacks
+ .text.main     0x0000172c       0x60 src/main.o
+                0x0000172c                main
+ .text          0x0000178c      0x114 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_udivsi3.o)
+                0x0000178c                __aeabi_uidiv
+                0x0000178c                __udivsi3
+                0x00001898                __aeabi_uidivmod
+ .text          0x000018a0        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_dvmd_tls.o)
+                0x000018a0                __aeabi_idiv0
+                0x000018a0                __aeabi_ldiv0
  .text.__libc_init_array
-                0x0000168c       0x48 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-init.o)
-                0x0000168c                __libc_init_array
- .text.memset   0x000016d4       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-memset.o)
-                0x000016d4                memset
+                0x000018a4       0x48 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-init.o)
+                0x000018a4                __libc_init_array
+ .text.memset   0x000018ec       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-memset.o)
+                0x000018ec                memset
  *(.glue_7t)
- .glue_7t       0x000016e4        0x0 linker stubs
+ .glue_7t       0x000018fc        0x0 linker stubs
  *(.glue_7)
- .glue_7        0x000016e4        0x0 linker stubs
+ .glue_7        0x000018fc        0x0 linker stubs
  *(.rodata .rodata* .gnu.linkonce.r.*)
- .rodata        0x000016e4       0x18 src/ASF/sam0/drivers/sercom/sercom.o
+ .rodata        0x000018fc       0x18 src/ASF/sam0/drivers/sercom/sercom.o
  .rodata.system_clock_source_get_hz
-                0x000016fc       0x24 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
+                0x00001914       0x24 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
  .rodata.system_clock_source_enable
-                0x00001720       0x24 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
+                0x00001938       0x24 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
  *(.ARM.extab* .gnu.linkonce.armextab.*)
-                0x00001744                . = ALIGN (0x4)
+                0x0000195c                . = ALIGN (0x4)
  *(.init)
- .init          0x00001744        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crti.o
-                0x00001744                _init
- .init          0x00001748        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtn.o
-                0x00001750                . = ALIGN (0x4)
-                0x00001750                __preinit_array_start = .
+ .init          0x0000195c        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crti.o
+                0x0000195c                _init
+ .init          0x00001960        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtn.o
+                0x00001968                . = ALIGN (0x4)
+                0x00001968                __preinit_array_start = .
  *(.preinit_array)
-                0x00001750                __preinit_array_end = .
-                0x00001750                . = ALIGN (0x4)
-                0x00001750                __init_array_start = .
+                0x00001968                __preinit_array_end = .
+                0x00001968                . = ALIGN (0x4)
+                0x00001968                __init_array_start = .
  *(SORT(.init_array.*))
  *(.init_array)
- .init_array    0x00001750        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtbegin.o
-                0x00001754                __init_array_end = .
-                0x00001754                . = ALIGN (0x4)
+ .init_array    0x00001968        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtbegin.o
+                0x0000196c                __init_array_end = .
+                0x0000196c                . = ALIGN (0x4)
  *crtbegin.o(.ctors)
  *(EXCLUDE_FILE(*crtend.o) .ctors)
  *(SORT(.ctors.*))
  *crtend.o(.ctors)
-                0x00001754                . = ALIGN (0x4)
+                0x0000196c                . = ALIGN (0x4)
  *(.fini)
- .fini          0x00001754        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crti.o
-                0x00001754                _fini
- .fini          0x00001758        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtn.o
-                0x00001760                . = ALIGN (0x4)
-                0x00001760                __fini_array_start = .
+ .fini          0x0000196c        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crti.o
+                0x0000196c                _fini
+ .fini          0x00001970        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtn.o
+                0x00001978                . = ALIGN (0x4)
+                0x00001978                __fini_array_start = .
  *(.fini_array)
- .fini_array    0x00001760        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtbegin.o
+ .fini_array    0x00001978        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtbegin.o
  *(SORT(.fini_array.*))
-                0x00001764                __fini_array_end = .
+                0x0000197c                __fini_array_end = .
  *crtbegin.o(.dtors)
  *(EXCLUDE_FILE(*crtend.o) .dtors)
  *(SORT(.dtors.*))
  *crtend.o(.dtors)
-                0x00001764                . = ALIGN (0x4)
-                0x00001764                _efixed = .
+                0x0000197c                . = ALIGN (0x4)
+                0x0000197c                _efixed = .
                 [!provide]                PROVIDE (__exidx_start, .)
 
-.vfp11_veneer   0x00001764        0x0
- .vfp11_veneer  0x00001764        0x0 linker stubs
+.vfp11_veneer   0x0000197c        0x0
+ .vfp11_veneer  0x0000197c        0x0 linker stubs
 
-.v4_bx          0x00001764        0x0
- .v4_bx         0x00001764        0x0 linker stubs
+.v4_bx          0x0000197c        0x0
+ .v4_bx         0x0000197c        0x0 linker stubs
 
-.iplt           0x00001764        0x0
- .iplt          0x00001764        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtbegin.o
+.iplt           0x0000197c        0x0
+ .iplt          0x0000197c        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtbegin.o
 
-.eh_frame       0x00001764        0x0
- .eh_frame      0x00001764        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtbegin.o
+.eh_frame       0x0000197c        0x0
+ .eh_frame      0x0000197c        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtbegin.o
 
-.rel.dyn        0x00001764        0x0
- .rel.iplt      0x00001764        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtbegin.o
+.rel.dyn        0x0000197c        0x0
+ .rel.iplt      0x0000197c        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtbegin.o
 
-.jcr            0x00001764        0x0
- .jcr           0x00001764        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtbegin.o
+.jcr            0x0000197c        0x0
+ .jcr           0x0000197c        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtbegin.o
 
-.igot.plt       0x00001764        0x0
- .igot.plt      0x00001764        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtbegin.o
+.igot.plt       0x0000197c        0x0
+ .igot.plt      0x0000197c        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtbegin.o
 
 .ARM.exidx
  *(.ARM.exidx* .gnu.linkonce.armexidx.*)
                 [!provide]                PROVIDE (__exidx_end, .)
-                0x00001764                . = ALIGN (0x4)
-                0x00001764                _etext = .
+                0x0000197c                . = ALIGN (0x4)
+                0x0000197c                _etext = .
 
-.relocate       0x20000000        0xc load address 0x00001764
+.relocate       0x20000000        0xc load address 0x0000197c
                 0x20000000                . = ALIGN (0x4)
                 0x20000000                _srelocate = .
  *(.ramfunc .ramfunc.*)
@@ -3752,7 +4249,7 @@ LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin
  *fill*         0x20000009        0x3 
                 0x2000000c                _erelocate = .
 
-.bss            0x2000000c       0x50 load address 0x00001770
+.bss            0x2000000c       0x94 load address 0x00001988
                 0x2000000c                . = ALIGN (0x4)
                 0x2000000c                _sbss = .
                 0x2000000c                _szero = .
@@ -3769,24 +4266,28 @@ LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin
  .bss._system_clock_inst
                 0x20000034       0x18 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
  *(COMMON)
- COMMON         0x2000004c        0xf src/lcd.o
-                0x2000004c                spi_master_instance
-                0x20000058                slave
-                0x2000005c                . = ALIGN (0x4)
- *fill*         0x2000005b        0x1 
-                0x2000005c                _ebss = .
-                0x2000005c                _ezero = .
+ COMMON         0x2000004c       0x40 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+                0x2000004c                _extint_dev
+ COMMON         0x2000008c        0x1 src/ASF/sam0/drivers/extint/extint_callback.o
+                0x2000008c                _current_channel
+ *fill*         0x2000008d        0x3 
+ COMMON         0x20000090        0xf src/lcd.o
+                0x20000090                spi_master_instance
+                0x2000009c                slave
+                0x200000a0                . = ALIGN (0x4)
+ *fill*         0x2000009f        0x1 
+                0x200000a0                _ebss = .
+                0x200000a0                _ezero = .
 
-.stack          0x2000005c     0x2004 load address 0x000017c0
-                0x20000060                . = ALIGN (0x8)
- *fill*         0x2000005c        0x4 
-                0x20000060                _sstack = .
-                0x20002060                . = (. + STACK_SIZE)
- *fill*         0x20000060     0x2000 
-                0x20002060                . = ALIGN (0x8)
-                0x20002060                _estack = .
-                0x20002060                . = ALIGN (0x4)
-                0x20002060                _end = .
+.stack          0x200000a0     0x2000 load address 0x00001a1c
+                0x200000a0                . = ALIGN (0x8)
+                0x200000a0                _sstack = .
+                0x200020a0                . = (. + STACK_SIZE)
+ *fill*         0x200000a0     0x2000 
+                0x200020a0                . = ALIGN (0x8)
+                0x200020a0                _estack = .
+                0x200020a0                . = ALIGN (0x4)
+                0x200020a0                _end = .
 OUTPUT(ATSAMD21_Proving_Fields_Master_Template.elf elf32-littlearm)
 
 .ARM.attributes
@@ -3796,45 +4297,51 @@ OUTPUT(ATSAMD21_Proving_Fields_Master_Template.elf elf32-littlearm)
  .ARM.attributes
                 0x0000001e       0x2c c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtbegin.o
  .ARM.attributes
-                0x0000004a       0x32 src/ASF/common2/services/delay/sam0/systick_counter.o
+                0x0000004a       0x32 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
  .ARM.attributes
-                0x0000007c       0x32 src/ASF/sam0/drivers/sercom/sercom.o
+                0x0000007c       0x32 src/ASF/sam0/drivers/extint/extint_callback.o
  .ARM.attributes
-                0x000000ae       0x32 src/ASF/sam0/drivers/sercom/spi/spi.o
+                0x000000ae       0x32 src/ASF/common2/services/delay/sam0/systick_counter.o
  .ARM.attributes
-                0x000000e0       0x32 src/lcd.o
+                0x000000e0       0x32 src/ASF/sam0/drivers/sercom/sercom.o
  .ARM.attributes
-                0x00000112       0x32 src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
+                0x00000112       0x32 src/ASF/sam0/drivers/sercom/spi/spi.o
  .ARM.attributes
-                0x00000144       0x32 src/ASF/sam0/boards/samd21_xplained_pro/board_init.o
+                0x00000144       0x32 src/lcd.o
  .ARM.attributes
-                0x00000176       0x32 src/ASF/sam0/drivers/port/port.o
+                0x00000176       0x32 src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
  .ARM.attributes
-                0x000001a8       0x32 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
+                0x000001a8       0x32 src/ASF/sam0/boards/samd21_xplained_pro/board_init.o
  .ARM.attributes
-                0x000001da       0x32 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
+                0x000001da       0x32 src/ASF/sam0/drivers/port/port.o
  .ARM.attributes
-                0x0000020c       0x32 src/ASF/sam0/drivers/system/pinmux/pinmux.o
+                0x0000020c       0x32 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
  .ARM.attributes
-                0x0000023e       0x32 src/ASF/sam0/drivers/system/system.o
+                0x0000023e       0x32 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
  .ARM.attributes
-                0x00000270       0x32 src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
+                0x00000270       0x32 src/ASF/sam0/drivers/system/pinmux/pinmux.o
  .ARM.attributes
-                0x000002a2       0x32 src/main.o
+                0x000002a2       0x32 src/ASF/sam0/drivers/system/system.o
  .ARM.attributes
-                0x000002d4       0x1e c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_udivsi3.o)
+                0x000002d4       0x32 src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
  .ARM.attributes
-                0x000002f2       0x1e c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_dvmd_tls.o)
+                0x00000306       0x32 src/main.o
  .ARM.attributes
-                0x00000310       0x2c c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-init.o)
+                0x00000338       0x1e c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_udivsi3.o)
  .ARM.attributes
-                0x0000033c       0x2c c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-memset.o)
+                0x00000356       0x1e c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_dvmd_tls.o)
  .ARM.attributes
-                0x00000368       0x1e c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtn.o
+                0x00000374       0x2c c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x000003a0       0x2c c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000003cc       0x1e c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtn.o
 
 .comment        0x00000000       0x59
- .comment       0x00000000       0x59 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .comment       0x00000000       0x59 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
                                  0x5a (size before relaxing)
+ .comment       0x00000059       0x5a src/ASF/sam0/drivers/extint/extint_callback.o
+ .comment       0x00000059       0x5a src/ASF/common2/services/delay/sam0/systick_counter.o
  .comment       0x00000059       0x5a src/ASF/sam0/drivers/sercom/sercom.o
  .comment       0x00000059       0x5a src/ASF/sam0/drivers/sercom/spi/spi.o
  .comment       0x00000059       0x5a src/lcd.o
@@ -3848,293 +4355,319 @@ OUTPUT(ATSAMD21_Proving_Fields_Master_Template.elf elf32-littlearm)
  .comment       0x00000059       0x5a src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
  .comment       0x00000059       0x5a src/main.o
 
-.debug_info     0x00000000    0x1e5a6
- .debug_info    0x00000000      0xb8d src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_info    0x00000b8d     0x2ddf src/ASF/sam0/drivers/sercom/sercom.o
- .debug_info    0x0000396c     0x660b src/ASF/sam0/drivers/sercom/spi/spi.o
- .debug_info    0x00009f77     0x4fa6 src/lcd.o
- .debug_info    0x0000ef1d      0xb07 src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
- .debug_info    0x0000fa24     0x12ad src/ASF/sam0/boards/samd21_xplained_pro/board_init.o
- .debug_info    0x00010cd1     0x12b6 src/ASF/sam0/drivers/port/port.o
- .debug_info    0x00011f87     0x39d4 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
- .debug_info    0x0001595b     0x1ec7 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
- .debug_info    0x00017822     0x13f3 src/ASF/sam0/drivers/system/pinmux/pinmux.o
- .debug_info    0x00018c15      0xa73 src/ASF/sam0/drivers/system/system.o
- .debug_info    0x00019688     0x3a3f src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
- .debug_info    0x0001d0c7     0x14df src/main.o
+.debug_info     0x00000000    0x22c30
+ .debug_info    0x00000000     0x2b16 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_info    0x00002b16     0x19a7 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_info    0x000044bd      0xb8d src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_info    0x0000504a     0x2ddf src/ASF/sam0/drivers/sercom/sercom.o
+ .debug_info    0x00007e29     0x660b src/ASF/sam0/drivers/sercom/spi/spi.o
+ .debug_info    0x0000e434     0x4fa6 src/lcd.o
+ .debug_info    0x000133da      0xb07 src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
+ .debug_info    0x00013ee1     0x12ad src/ASF/sam0/boards/samd21_xplained_pro/board_init.o
+ .debug_info    0x0001518e     0x12b6 src/ASF/sam0/drivers/port/port.o
+ .debug_info    0x00016444     0x39d4 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
+ .debug_info    0x00019e18     0x1ec7 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
+ .debug_info    0x0001bcdf     0x13f3 src/ASF/sam0/drivers/system/pinmux/pinmux.o
+ .debug_info    0x0001d0d2      0xa73 src/ASF/sam0/drivers/system/system.o
+ .debug_info    0x0001db45     0x3a3f src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
+ .debug_info    0x00021584     0x16ac src/main.o
 
-.debug_abbrev   0x00000000     0x2a88
- .debug_abbrev  0x00000000      0x24b src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_abbrev  0x0000024b      0x378 src/ASF/sam0/drivers/sercom/sercom.o
- .debug_abbrev  0x000005c3      0x532 src/ASF/sam0/drivers/sercom/spi/spi.o
- .debug_abbrev  0x00000af5      0x4a9 src/lcd.o
- .debug_abbrev  0x00000f9e      0x22c src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
- .debug_abbrev  0x000011ca      0x2dc src/ASF/sam0/boards/samd21_xplained_pro/board_init.o
- .debug_abbrev  0x000014a6      0x298 src/ASF/sam0/drivers/port/port.o
- .debug_abbrev  0x0000173e      0x493 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
- .debug_abbrev  0x00001bd1      0x40d src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
- .debug_abbrev  0x00001fde      0x361 src/ASF/sam0/drivers/system/pinmux/pinmux.o
- .debug_abbrev  0x0000233f      0x1e1 src/ASF/sam0/drivers/system/system.o
- .debug_abbrev  0x00002520      0x234 src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
- .debug_abbrev  0x00002754      0x334 src/main.o
+.debug_abbrev   0x00000000     0x3289
+ .debug_abbrev  0x00000000      0x4b4 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_abbrev  0x000004b4      0x333 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_abbrev  0x000007e7      0x24b src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_abbrev  0x00000a32      0x378 src/ASF/sam0/drivers/sercom/sercom.o
+ .debug_abbrev  0x00000daa      0x532 src/ASF/sam0/drivers/sercom/spi/spi.o
+ .debug_abbrev  0x000012dc      0x4a9 src/lcd.o
+ .debug_abbrev  0x00001785      0x22c src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
+ .debug_abbrev  0x000019b1      0x2dc src/ASF/sam0/boards/samd21_xplained_pro/board_init.o
+ .debug_abbrev  0x00001c8d      0x298 src/ASF/sam0/drivers/port/port.o
+ .debug_abbrev  0x00001f25      0x493 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
+ .debug_abbrev  0x000023b8      0x40d src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
+ .debug_abbrev  0x000027c5      0x361 src/ASF/sam0/drivers/system/pinmux/pinmux.o
+ .debug_abbrev  0x00002b26      0x1e1 src/ASF/sam0/drivers/system/system.o
+ .debug_abbrev  0x00002d07      0x234 src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
+ .debug_abbrev  0x00002f3b      0x34e src/main.o
 
-.debug_loc      0x00000000     0x6502
- .debug_loc     0x00000000       0xe4 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_loc     0x000000e4      0x9d5 src/ASF/sam0/drivers/sercom/sercom.o
- .debug_loc     0x00000ab9     0x2d19 src/ASF/sam0/drivers/sercom/spi/spi.o
- .debug_loc     0x000037d2     0x1297 src/lcd.o
- .debug_loc     0x00004a69       0x8b src/ASF/sam0/boards/samd21_xplained_pro/board_init.o
- .debug_loc     0x00004af4      0x13d src/ASF/sam0/drivers/port/port.o
- .debug_loc     0x00004c31      0xf77 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
- .debug_loc     0x00005ba8      0x504 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
- .debug_loc     0x000060ac      0x36d src/ASF/sam0/drivers/system/pinmux/pinmux.o
- .debug_loc     0x00006419       0x20 src/ASF/sam0/drivers/system/system.o
- .debug_loc     0x00006439       0x40 src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
- .debug_loc     0x00006479       0x89 src/main.o
+.debug_loc      0x00000000     0x6c57
+ .debug_loc     0x00000000      0x43d src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_loc     0x0000043d      0x2ac src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_loc     0x000006e9       0xe4 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_loc     0x000007cd      0x9d5 src/ASF/sam0/drivers/sercom/sercom.o
+ .debug_loc     0x000011a2     0x2d19 src/ASF/sam0/drivers/sercom/spi/spi.o
+ .debug_loc     0x00003ebb     0x1297 src/lcd.o
+ .debug_loc     0x00005152       0x8b src/ASF/sam0/boards/samd21_xplained_pro/board_init.o
+ .debug_loc     0x000051dd      0x13d src/ASF/sam0/drivers/port/port.o
+ .debug_loc     0x0000531a      0xf77 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
+ .debug_loc     0x00006291      0x504 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
+ .debug_loc     0x00006795      0x36d src/ASF/sam0/drivers/system/pinmux/pinmux.o
+ .debug_loc     0x00006b02       0x20 src/ASF/sam0/drivers/system/system.o
+ .debug_loc     0x00006b22       0x40 src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
+ .debug_loc     0x00006b62       0xf5 src/main.o
 
-.debug_aranges  0x00000000      0x3a8
+.debug_aranges  0x00000000      0x458
  .debug_aranges
-                0x00000000       0x30 src/ASF/common2/services/delay/sam0/systick_counter.o
+                0x00000000       0x50 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
  .debug_aranges
-                0x00000030       0x48 src/ASF/sam0/drivers/sercom/sercom.o
+                0x00000050       0x48 src/ASF/sam0/drivers/extint/extint_callback.o
  .debug_aranges
-                0x00000078       0x58 src/ASF/sam0/drivers/sercom/spi/spi.o
+                0x00000098       0x30 src/ASF/common2/services/delay/sam0/systick_counter.o
  .debug_aranges
-                0x000000d0       0xc0 src/lcd.o
+                0x000000c8       0x48 src/ASF/sam0/drivers/sercom/sercom.o
  .debug_aranges
-                0x00000190       0x28 src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
+                0x00000110       0x58 src/ASF/sam0/drivers/sercom/spi/spi.o
  .debug_aranges
-                0x000001b8       0x20 src/ASF/sam0/boards/samd21_xplained_pro/board_init.o
+                0x00000168       0xc0 src/lcd.o
  .debug_aranges
-                0x000001d8       0x28 src/ASF/sam0/drivers/port/port.o
+                0x00000228       0x28 src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
  .debug_aranges
-                0x00000200       0x78 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
+                0x00000250       0x20 src/ASF/sam0/boards/samd21_xplained_pro/board_init.o
  .debug_aranges
-                0x00000278       0x80 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
+                0x00000270       0x28 src/ASF/sam0/drivers/port/port.o
  .debug_aranges
-                0x000002f8       0x40 src/ASF/sam0/drivers/system/pinmux/pinmux.o
+                0x00000298       0x78 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
  .debug_aranges
-                0x00000338       0x28 src/ASF/sam0/drivers/system/system.o
+                0x00000310       0x80 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
  .debug_aranges
-                0x00000360       0x28 src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
+                0x00000390       0x40 src/ASF/sam0/drivers/system/pinmux/pinmux.o
  .debug_aranges
-                0x00000388       0x20 src/main.o
+                0x000003d0       0x28 src/ASF/sam0/drivers/system/system.o
+ .debug_aranges
+                0x000003f8       0x28 src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
+ .debug_aranges
+                0x00000420       0x38 src/main.o
 
-.debug_ranges   0x00000000      0x810
- .debug_ranges  0x00000000       0x50 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_ranges  0x00000050       0x50 src/ASF/sam0/drivers/sercom/sercom.o
- .debug_ranges  0x000000a0      0x490 src/ASF/sam0/drivers/sercom/spi/spi.o
- .debug_ranges  0x00000530      0x128 src/lcd.o
- .debug_ranges  0x00000658       0x18 src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
- .debug_ranges  0x00000670       0x10 src/ASF/sam0/boards/samd21_xplained_pro/board_init.o
- .debug_ranges  0x00000680       0x18 src/ASF/sam0/drivers/port/port.o
- .debug_ranges  0x00000698       0x68 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
- .debug_ranges  0x00000700       0x88 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
- .debug_ranges  0x00000788       0x30 src/ASF/sam0/drivers/system/pinmux/pinmux.o
- .debug_ranges  0x000007b8       0x18 src/ASF/sam0/drivers/system/system.o
- .debug_ranges  0x000007d0       0x18 src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
- .debug_ranges  0x000007e8       0x28 src/main.o
+.debug_ranges   0x00000000      0x8f8
+ .debug_ranges  0x00000000       0x40 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_ranges  0x00000040       0x90 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_ranges  0x000000d0       0x50 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_ranges  0x00000120       0x50 src/ASF/sam0/drivers/sercom/sercom.o
+ .debug_ranges  0x00000170      0x490 src/ASF/sam0/drivers/sercom/spi/spi.o
+ .debug_ranges  0x00000600      0x128 src/lcd.o
+ .debug_ranges  0x00000728       0x18 src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
+ .debug_ranges  0x00000740       0x10 src/ASF/sam0/boards/samd21_xplained_pro/board_init.o
+ .debug_ranges  0x00000750       0x18 src/ASF/sam0/drivers/port/port.o
+ .debug_ranges  0x00000768       0x68 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
+ .debug_ranges  0x000007d0       0x88 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
+ .debug_ranges  0x00000858       0x30 src/ASF/sam0/drivers/system/pinmux/pinmux.o
+ .debug_ranges  0x00000888       0x18 src/ASF/sam0/drivers/system/system.o
+ .debug_ranges  0x000008a0       0x18 src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
+ .debug_ranges  0x000008b8       0x40 src/main.o
 
-.debug_macro    0x00000000    0x1973c
- .debug_macro   0x00000000      0x54d src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000054d      0x8bc src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00000e09      0x16d src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00000f76      0x6d7 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000164d       0x22 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000166f       0x87 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x000016f6       0x51 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00001747       0xef src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00001836       0x6a src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x000018a0      0x1df src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00001a7f       0x10 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00001a8f       0x76 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00001b05       0x16 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00001b1b      0x6db src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x000021f6      0xdd8 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00002fce       0x22 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00002ff0       0x40 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00003030       0x3a src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000306a       0x1f src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00003089      0x250 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x000032d9      0x681 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000395a      0x8b5 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000420f      0x230 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000443f      0xd60 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000519f      0x4cb src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000566a      0x9f8 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00006062      0x82b src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000688d      0x455 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00006ce2       0x5e src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00006d40      0x8fd src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000763d      0x21c src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00007859      0x95b src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x000081b4       0x5e src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00008212      0x667 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00008879      0x3af src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00008c28      0xc7a src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x000098a2     0x1092 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000a934      0xc4a src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000b57e      0x6ba src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000bc38     0x1bbf src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000d7f7     0x1440 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000ec37      0x344 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000ef7b       0x7c src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000eff7       0xa0 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000f097       0x4c src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000f0e3       0xca src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000f1ad       0x94 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000f241       0x58 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000f299      0x37d src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000f616       0x82 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000f698      0x18d src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000f825       0xb8 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000f8dd       0xa0 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000f97d       0xb8 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000fa35       0x1c src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000fa51       0x1c src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000fa6d       0x1c src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000fa89       0x82 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000fb0b      0x15a src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000fc65       0xdc src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000fd41      0x128 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000fe69      0x128 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0000ff91      0x128 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x000100b9      0x128 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x000101e1      0x128 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00010309      0x128 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00010431      0x124 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00010555       0xe2 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00010637       0xe2 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00010719       0xe2 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x000107fb       0xe2 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x000108dd       0xe2 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x000109bf      0x130 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00010aef      0x106 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00010bf5       0xfa src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00010cef      0x40f src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x000110fe       0x40 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0001113e      0x37d src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x000114bb     0x1e52 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0001330d       0x6d src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0001337a       0x58 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x000133d2       0x35 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00013407       0x9c src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x000134a3       0x16 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x000134b9       0x35 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x000134ee      0x353 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00013841       0x10 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00013851       0x58 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x000138a9       0x1f src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x000138c8       0x43 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0001390b       0x20 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0001392b      0x187 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00013ab2       0x10 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00013ac2       0x1c src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00013ade       0x52 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00013b30       0x40 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00013b70       0x10 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00013b80       0x40 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00013bc0       0xd7 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00013c97       0x16 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00013cad      0x18b src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00013e38       0x16 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00013e4e       0x16 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00013e64       0x29 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00013e8d       0x51 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00013ede       0x3e src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00013f1c      0x3df src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x000142fb       0x11 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x0001430c       0x16 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00014322       0x16 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_macro   0x00014338      0x59f src/ASF/sam0/drivers/sercom/sercom.o
- .debug_macro   0x000148d7       0x18 src/ASF/sam0/drivers/sercom/sercom.o
- .debug_macro   0x000148ef       0x16 src/ASF/sam0/drivers/sercom/sercom.o
- .debug_macro   0x00014905       0x2e src/ASF/sam0/drivers/sercom/sercom.o
- .debug_macro   0x00014933       0xb2 src/ASF/sam0/drivers/sercom/sercom.o
- .debug_macro   0x000149e5       0x10 src/ASF/sam0/drivers/sercom/sercom.o
- .debug_macro   0x000149f5      0x5d4 src/ASF/sam0/drivers/sercom/spi/spi.o
- .debug_macro   0x00014fc9       0x12 src/ASF/sam0/drivers/sercom/spi/spi.o
- .debug_macro   0x00014fdb       0x16 src/ASF/sam0/drivers/sercom/spi/spi.o
- .debug_macro   0x00014ff1       0x16 src/ASF/sam0/drivers/sercom/spi/spi.o
- .debug_macro   0x00015007       0x35 src/ASF/sam0/drivers/sercom/spi/spi.o
- .debug_macro   0x0001503c      0x676 src/lcd.o
- .debug_macro   0x000156b2      0x2c3 src/lcd.o
- .debug_macro   0x00015975      0x9f4 src/lcd.o
- .debug_macro   0x00016369      0x174 src/lcd.o
- .debug_macro   0x000164dd      0x512 src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
- .debug_macro   0x000169ef      0x54e src/ASF/sam0/boards/samd21_xplained_pro/board_init.o
- .debug_macro   0x00016f3d      0x52c src/ASF/sam0/drivers/port/port.o
- .debug_macro   0x00017469      0x591 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
- .debug_macro   0x000179fa      0x298 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
- .debug_macro   0x00017c92      0x548 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
- .debug_macro   0x000181da      0x522 src/ASF/sam0/drivers/system/pinmux/pinmux.o
- .debug_macro   0x000186fc       0x12 src/ASF/sam0/drivers/system/pinmux/pinmux.o
- .debug_macro   0x0001870e      0x555 src/ASF/sam0/drivers/system/system.o
- .debug_macro   0x00018c63      0x2f9 src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
- .debug_macro   0x00018f5c       0x3a src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
- .debug_macro   0x00018f96      0x62c src/main.o
- .debug_macro   0x000195c2      0x17a src/main.o
+.debug_macro    0x00000000    0x1a2a4
+ .debug_macro   0x00000000      0x591 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00000591      0x8c2 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00000e53      0x16d src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00000fc0      0x6d7 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00001697       0x22 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x000016b9       0x87 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00001740       0x51 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00001791       0xef src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00001880       0x6a src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x000018ea      0x1df src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00001ac9       0x10 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00001ad9       0x76 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00001b4f       0x16 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00001b65      0x6db src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00002240      0xdd8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00003018       0x22 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0000303a       0x40 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0000307a       0x3a src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x000030b4       0x1f src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x000030d3      0x250 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00003323      0x681 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x000039a4      0x8b5 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00004259      0x230 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00004489      0xd60 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x000051e9      0x4cb src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x000056b4      0x9f8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x000060ac      0x82b src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x000068d7      0x455 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00006d2c       0x5e src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00006d8a      0x8fd src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00007687      0x21c src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x000078a3      0x95b src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x000081fe       0x5e src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0000825c      0x667 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x000088c3      0x3af src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00008c72      0xc7a src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x000098ec     0x1092 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0000a97e      0xc4a src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0000b5c8      0x6ba src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0000bc82     0x1bbf src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0000d841     0x1440 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0000ec81      0x344 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0000efc5       0x7c src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0000f041       0xa0 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0000f0e1       0x4c src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0000f12d       0xca src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0000f1f7       0x94 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0000f28b       0x58 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0000f2e3      0x37d src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0000f660       0x82 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0000f6e2      0x18d src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0000f86f       0xb8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0000f927       0xa0 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0000f9c7       0xb8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0000fa7f       0x1c src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0000fa9b       0x1c src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0000fab7       0x1c src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0000fad3       0x82 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0000fb55      0x15a src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0000fcaf       0xdc src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0000fd8b      0x128 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0000feb3      0x128 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0000ffdb      0x128 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00010103      0x128 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0001022b      0x128 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00010353      0x128 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0001047b      0x124 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0001059f       0xe2 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00010681       0xe2 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00010763       0xe2 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00010845       0xe2 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00010927       0xe2 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00010a09      0x130 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00010b39      0x106 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00010c3f       0xfa src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00010d39      0x40f src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00011148       0x40 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00011188      0x37d src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00011505     0x1e52 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00013357       0x6d src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x000133c4       0x58 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0001341c       0x35 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00013451       0x9c src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x000134ed       0x16 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00013503       0x35 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00013538      0x353 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0001388b       0x10 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0001389b       0x58 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x000138f3       0x1f src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00013912       0x43 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00013955       0x20 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00013975      0x187 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00013afc       0x10 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00013b0c       0x1c src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00013b28       0x52 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00013b7a       0x40 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00013bba       0x10 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00013bca       0x40 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00013c0a       0xd7 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00013ce1       0x16 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00013cf7      0x18b src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00013e82       0x16 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00013e98       0x16 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00013eae       0x29 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00013ed7       0x51 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00013f28       0x3e src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00013f66      0x3df src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00014345       0x11 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00014356       0x18 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x0001436e       0x16 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x00014384       0x2e src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x000143b2       0x1f src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x000143d1       0x16 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_macro   0x000143e7      0x537 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x0001491e       0x19 src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_macro   0x00014937      0x54d src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00014e84       0x16 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00014e9a       0x16 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_macro   0x00014eb0      0x59f src/ASF/sam0/drivers/sercom/sercom.o
+ .debug_macro   0x0001544f       0xb2 src/ASF/sam0/drivers/sercom/sercom.o
+ .debug_macro   0x00015501       0x10 src/ASF/sam0/drivers/sercom/sercom.o
+ .debug_macro   0x00015511      0x5d4 src/ASF/sam0/drivers/sercom/spi/spi.o
+ .debug_macro   0x00015ae5       0x12 src/ASF/sam0/drivers/sercom/spi/spi.o
+ .debug_macro   0x00015af7       0x16 src/ASF/sam0/drivers/sercom/spi/spi.o
+ .debug_macro   0x00015b0d       0x16 src/ASF/sam0/drivers/sercom/spi/spi.o
+ .debug_macro   0x00015b23       0x35 src/ASF/sam0/drivers/sercom/spi/spi.o
+ .debug_macro   0x00015b58      0x690 src/lcd.o
+ .debug_macro   0x000161e8      0x2c3 src/lcd.o
+ .debug_macro   0x000164ab      0x9f4 src/lcd.o
+ .debug_macro   0x00016e9f       0x18 src/lcd.o
+ .debug_macro   0x00016eb7      0x174 src/lcd.o
+ .debug_macro   0x0001702b      0x512 src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
+ .debug_macro   0x0001753d      0x54e src/ASF/sam0/boards/samd21_xplained_pro/board_init.o
+ .debug_macro   0x00017a8b      0x52c src/ASF/sam0/drivers/port/port.o
+ .debug_macro   0x00017fb7      0x591 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
+ .debug_macro   0x00018548      0x298 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
+ .debug_macro   0x000187e0      0x548 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
+ .debug_macro   0x00018d28      0x522 src/ASF/sam0/drivers/system/pinmux/pinmux.o
+ .debug_macro   0x0001924a       0x12 src/ASF/sam0/drivers/system/pinmux/pinmux.o
+ .debug_macro   0x0001925c      0x555 src/ASF/sam0/drivers/system/system.o
+ .debug_macro   0x000197b1      0x2f9 src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
+ .debug_macro   0x00019aaa       0x3a src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
+ .debug_macro   0x00019ae4      0x646 src/main.o
+ .debug_macro   0x0001a12a      0x17a src/main.o
 
-.debug_line     0x00000000     0x93c4
- .debug_line    0x00000000      0x9ce src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_line    0x000009ce      0xbdd src/ASF/sam0/drivers/sercom/sercom.o
- .debug_line    0x000015ab     0x137e src/ASF/sam0/drivers/sercom/spi/spi.o
- .debug_line    0x00002929      0xfdb src/lcd.o
- .debug_line    0x00003904      0x8d7 src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
- .debug_line    0x000041db      0x97f src/ASF/sam0/boards/samd21_xplained_pro/board_init.o
- .debug_line    0x00004b5a      0x904 src/ASF/sam0/drivers/port/port.o
- .debug_line    0x0000545e      0xcc7 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
- .debug_line    0x00006125      0xc80 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
- .debug_line    0x00006da5      0x951 src/ASF/sam0/drivers/system/pinmux/pinmux.o
- .debug_line    0x000076f6      0x9fb src/ASF/sam0/drivers/system/system.o
- .debug_line    0x000080f1      0x656 src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
- .debug_line    0x00008747      0xc7d src/main.o
+.debug_line     0x00000000     0xaa83
+ .debug_line    0x00000000      0xc3a src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_line    0x00000c3a      0x9da src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_line    0x00001614      0x9ce src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_line    0x00001fe2      0xbdd src/ASF/sam0/drivers/sercom/sercom.o
+ .debug_line    0x00002bbf     0x137e src/ASF/sam0/drivers/sercom/spi/spi.o
+ .debug_line    0x00003f3d     0x101b src/lcd.o
+ .debug_line    0x00004f58      0x8d7 src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
+ .debug_line    0x0000582f      0x97f src/ASF/sam0/boards/samd21_xplained_pro/board_init.o
+ .debug_line    0x000061ae      0x904 src/ASF/sam0/drivers/port/port.o
+ .debug_line    0x00006ab2      0xcc7 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
+ .debug_line    0x00007779      0xc80 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
+ .debug_line    0x000083f9      0x951 src/ASF/sam0/drivers/system/pinmux/pinmux.o
+ .debug_line    0x00008d4a      0x9fb src/ASF/sam0/drivers/system/system.o
+ .debug_line    0x00009745      0x656 src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
+ .debug_line    0x00009d9b      0xce8 src/main.o
 
-.debug_str      0x00000000    0x8cdef
- .debug_str     0x00000000    0x8281f src/ASF/common2/services/delay/sam0/systick_counter.o
-                              0x830d7 (size before relaxing)
- .debug_str     0x0008281f     0x1638 src/ASF/sam0/drivers/sercom/sercom.o
-                              0x845ba (size before relaxing)
- .debug_str     0x00083e57     0x117a src/ASF/sam0/drivers/sercom/spi/spi.o
-                              0x85344 (size before relaxing)
- .debug_str     0x00084fd1     0x4175 src/lcd.o
-                              0x88dfe (size before relaxing)
- .debug_str     0x00089146       0x94 src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
-                              0x82ec7 (size before relaxing)
- .debug_str     0x000891da       0x4a src/ASF/sam0/boards/samd21_xplained_pro/board_init.o
-                              0x86bd3 (size before relaxing)
- .debug_str     0x00089224       0x59 src/ASF/sam0/drivers/port/port.o
-                              0x832f3 (size before relaxing)
- .debug_str     0x0008927d     0x2833 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
-                              0x86158 (size before relaxing)
- .debug_str     0x0008bab0      0x233 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
-                              0x83b8a (size before relaxing)
- .debug_str     0x0008bce3      0x179 src/ASF/sam0/drivers/system/pinmux/pinmux.o
-                              0x83369 (size before relaxing)
- .debug_str     0x0008be5c       0x47 src/ASF/sam0/drivers/system/system.o
-                              0x82fa4 (size before relaxing)
- .debug_str     0x0008bea3      0xf25 src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
-                              0x6e3b1 (size before relaxing)
- .debug_str     0x0008cdc8       0x27 src/main.o
-                              0x878c7 (size before relaxing)
+.debug_str      0x00000000    0x8db81
+ .debug_str     0x00000000    0x83d94 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+                              0x84777 (size before relaxing)
+ .debug_str     0x00083d94      0x131 src/ASF/sam0/drivers/extint/extint_callback.o
+                              0x83724 (size before relaxing)
+ .debug_str     0x00083ec5      0x233 src/ASF/common2/services/delay/sam0/systick_counter.o
+                              0x830f1 (size before relaxing)
+ .debug_str     0x000840f8      0xed7 src/ASF/sam0/drivers/sercom/sercom.o
+                              0x845d4 (size before relaxing)
+ .debug_str     0x00084fcf      0xd5b src/ASF/sam0/drivers/sercom/spi/spi.o
+                              0x8535e (size before relaxing)
+ .debug_str     0x00085d2a     0x4175 src/lcd.o
+                              0x88e89 (size before relaxing)
+ .debug_str     0x00089e9f       0x94 src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
+                              0x82ee1 (size before relaxing)
+ .debug_str     0x00089f33       0x4a src/ASF/sam0/boards/samd21_xplained_pro/board_init.o
+                              0x86bed (size before relaxing)
+ .debug_str     0x00089f7d       0x59 src/ASF/sam0/drivers/port/port.o
+                              0x8330d (size before relaxing)
+ .debug_str     0x00089fd6     0x2833 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
+                              0x86172 (size before relaxing)
+ .debug_str     0x0008c809      0x212 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
+                              0x83ba4 (size before relaxing)
+ .debug_str     0x0008ca1b      0x179 src/ASF/sam0/drivers/system/pinmux/pinmux.o
+                              0x83383 (size before relaxing)
+ .debug_str     0x0008cb94       0x47 src/ASF/sam0/drivers/system/system.o
+                              0x82fbe (size before relaxing)
+ .debug_str     0x0008cbdb      0xf1e src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
+                              0x6e3cb (size before relaxing)
+ .debug_str     0x0008daf9       0x88 src/main.o
+                              0x87b75 (size before relaxing)
 
-.debug_frame    0x00000000      0x9ec
- .debug_frame   0x00000000       0x64 src/ASF/common2/services/delay/sam0/systick_counter.o
- .debug_frame   0x00000064       0xbc src/ASF/sam0/drivers/sercom/sercom.o
- .debug_frame   0x00000120      0x120 src/ASF/sam0/drivers/sercom/spi/spi.o
- .debug_frame   0x00000240      0x2c8 src/lcd.o
- .debug_frame   0x00000508       0x30 src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
- .debug_frame   0x00000538       0x30 src/ASF/sam0/boards/samd21_xplained_pro/board_init.o
- .debug_frame   0x00000568       0x44 src/ASF/sam0/drivers/port/port.o
- .debug_frame   0x000005ac      0x150 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
- .debug_frame   0x000006fc      0x148 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
- .debug_frame   0x00000844       0x98 src/ASF/sam0/drivers/system/pinmux/pinmux.o
- .debug_frame   0x000008dc       0x38 src/ASF/sam0/drivers/system/system.o
- .debug_frame   0x00000914       0x40 src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
- .debug_frame   0x00000954       0x2c src/main.o
- .debug_frame   0x00000980       0x20 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_udivsi3.o)
- .debug_frame   0x000009a0       0x2c c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-init.o)
- .debug_frame   0x000009cc       0x20 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-memset.o)
+.debug_frame    0x00000000      0xb68
+ .debug_frame   0x00000000       0xb8 src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+ .debug_frame   0x000000b8       0x7c src/ASF/sam0/drivers/extint/extint_callback.o
+ .debug_frame   0x00000134       0x64 src/ASF/common2/services/delay/sam0/systick_counter.o
+ .debug_frame   0x00000198       0xbc src/ASF/sam0/drivers/sercom/sercom.o
+ .debug_frame   0x00000254      0x120 src/ASF/sam0/drivers/sercom/spi/spi.o
+ .debug_frame   0x00000374      0x2c8 src/lcd.o
+ .debug_frame   0x0000063c       0x30 src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
+ .debug_frame   0x0000066c       0x30 src/ASF/sam0/boards/samd21_xplained_pro/board_init.o
+ .debug_frame   0x0000069c       0x44 src/ASF/sam0/drivers/port/port.o
+ .debug_frame   0x000006e0      0x150 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
+ .debug_frame   0x00000830      0x148 src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
+ .debug_frame   0x00000978       0x98 src/ASF/sam0/drivers/system/pinmux/pinmux.o
+ .debug_frame   0x00000a10       0x38 src/ASF/sam0/drivers/system/system.o
+ .debug_frame   0x00000a48       0x40 src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
+ .debug_frame   0x00000a88       0x74 src/main.o
+ .debug_frame   0x00000afc       0x20 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_udivsi3.o)
+ .debug_frame   0x00000b1c       0x2c c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-init.o)
+ .debug_frame   0x00000b48       0x20 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-memset.o)
 
 Cross Reference Table
 
@@ -4144,7 +4677,7 @@ ADC_Handler                                       src/ASF/sam0/utils/cmsis/samd2
 DAC_Handler                                       src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
 DMAC_Handler                                      src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
 Dummy_Handler                                     src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
-EIC_Handler                                       src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
+EIC_Handler                                       src/ASF/sam0/drivers/extint/extint_callback.o
 EVSYS_Handler                                     src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
 HardFault_Handler                                 src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
 I2S_Handler                                       src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
@@ -4221,12 +4754,15 @@ __sf_fake_stdout                                  c:/program files (x86)/atmel/s
 __stack                                           c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
 __udivsi3                                         c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_udivsi3.o)
 _close                                            src/ASF/sam0/utils/syscalls/gcc/syscalls.o
+_current_channel                                  src/ASF/sam0/drivers/extint/extint_callback.o
 _end                                              src/ASF/sam0/utils/syscalls/gcc/syscalls.o
 _erelocate                                        src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
 _estack                                           src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
 _etext                                            src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
 _exit                                             src/ASF/sam0/utils/syscalls/gcc/syscalls.o
                                                   c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-exit.o)
+_extint_dev                                       src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+                                                  src/ASF/sam0/drivers/extint/extint_callback.o
 _ezero                                            src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
 _fini                                             c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crti.o
 _fstat                                            src/ASF/sam0/utils/syscalls/gcc/syscalls.o
@@ -4254,10 +4790,12 @@ _start                                            c:/program files (x86)/atmel/s
 _system_divas_init                                src/ASF/sam0/drivers/system/system.o
 _system_dummy_init                                src/ASF/sam0/drivers/system/system.o
 _system_events_init                               src/ASF/sam0/drivers/system/system.o
-_system_extint_init                               src/ASF/sam0/drivers/system/system.o
+_system_extint_init                               src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
 _szero                                            src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
 atexit                                            c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
 board_init                                        src/ASF/sam0/boards/samd21_xplained_pro/board_init.o
+configure_extint_callbacks                        src/main.o
+configure_extint_channel                          src/main.o
 configure_port_pins                               src/lcd.o
                                                   src/main.o
 configure_spi_master                              src/lcd.o
@@ -4280,6 +4818,21 @@ drawYBar                                          src/lcd.o
 exception_table                                   src/ASF/sam0/utils/cmsis/samd21/source/gcc/startup_samd21.o
 exit                                              c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-exit.o)
                                                   c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+extint_chan_disable_callback                      src/ASF/sam0/drivers/extint/extint_callback.o
+extint_chan_enable_callback                       src/ASF/sam0/drivers/extint/extint_callback.o
+                                                  src/main.o
+extint_chan_get_config_defaults                   src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+                                                  src/main.o
+extint_chan_set_config                            src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+                                                  src/main.o
+extint_detection_callback                         src/main.o
+extint_disable_events                             src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+extint_enable_events                              src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+extint_get_current_channel                        src/ASF/sam0/drivers/extint/extint_callback.o
+extint_nmi_set_config                             src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
+extint_register_callback                          src/ASF/sam0/drivers/extint/extint_callback.o
+                                                  src/main.o
+extint_unregister_callback                        src/ASF/sam0/drivers/extint/extint_callback.o
 g_interrupt_enabled                               src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
 hardware_init_hook                                c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
 link                                              src/ASF/sam0/utils/syscalls/gcc/syscalls.o
@@ -4325,10 +4878,12 @@ system_clock_source_write_calibration             src/ASF/sam0/drivers/system/cl
 system_clock_source_xosc32k_set_config            src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
 system_clock_source_xosc_set_config               src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
 system_gclk_chan_disable                          src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
+                                                  src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
 system_gclk_chan_enable                           src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
                                                   src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
                                                   src/ASF/sam0/drivers/sercom/spi/spi.o
                                                   src/ASF/sam0/drivers/sercom/sercom.o
+                                                  src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
 system_gclk_chan_get_hz                           src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
                                                   src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
                                                   src/ASF/sam0/drivers/sercom/spi/spi.o
@@ -4339,6 +4894,7 @@ system_gclk_chan_set_config                       src/ASF/sam0/drivers/system/cl
                                                   src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
                                                   src/ASF/sam0/drivers/sercom/spi/spi.o
                                                   src/ASF/sam0/drivers/sercom/sercom.o
+                                                  src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
 system_gclk_gen_disable                           src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
 system_gclk_gen_enable                            src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/gclk.o
                                                   src/ASF/sam0/drivers/system/clock/clock_samd21_r21_da_ha1/clock.o
@@ -4363,3 +4919,4 @@ system_pinmux_group_set_output_strength           src/ASF/sam0/drivers/system/pi
 system_pinmux_pin_set_config                      src/ASF/sam0/drivers/system/pinmux/pinmux.o
                                                   src/ASF/sam0/drivers/port/port.o
                                                   src/ASF/sam0/drivers/sercom/spi/spi.o
+                                                  src/ASF/sam0/drivers/extint/extint_sam_d_r_h/extint.o
