@@ -154,8 +154,8 @@ static const char ASCII[96][5] = {
 #define MADCTL_BGR 0x08
 #define MADCTL_MH  0x04
 
-#define _GRAMWIDTH 128
-#define _GRAMHEIGH 160 //128 //160
+#define _GRAMWIDTH 160
+#define _GRAMHEIGH 128 //128 //160
 #define _GRAMSIZE  _GRAMWIDTH * _GRAMHEIGH
 
 // colors
@@ -168,6 +168,9 @@ static const char ASCII[96][5] = {
 #define MAGENTA   0xF81F
 #define YELLOW    0xFFE0
 
+
+
+void LCD_rotate(uint8_t m);
 void LCD_clearLine(short x0);
 void LCD_drawLine(short x1,short y1,short x2,short y2,short c);
 void drawPoints(char* points,int c);

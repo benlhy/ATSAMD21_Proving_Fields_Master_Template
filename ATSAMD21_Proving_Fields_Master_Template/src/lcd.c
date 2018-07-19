@@ -7,8 +7,45 @@
 
 #include "lcd.h"
 
-#define MAX_X 128
-#define MAX_Y 160
+#define MAX_X 160
+#define MAX_Y 128
+
+#define ST77XX_MADCTL_MY  0x80
+#define ST77XX_MADCTL_MX  0x40
+#define ST77XX_MADCTL_MV  0x20
+#define ST77XX_MADCTL_ML  0x10
+#define ST77XX_MADCTL_RGB 0x00
+#define ST77XX_MADCTL  0x36
+
+void LCD_rotate(uint8_t m){
+	uint8_t madctl = 0;
+	uint8_t rotation = m % 4; // can't be higher than 3
+
+	switch (rotation) {
+		case 0:
+
+			madctl = ST77XX_MADCTL_MX | ST77XX_MADCTL_MY | ST77XX_MADCTL_RGB;
+			
+
+		break;
+		case 1:
+
+			madctl = ST77XX_MADCTL_MY | ST77XX_MADCTL_MV | ST77XX_MADCTL_RGB;
+			
+		case 2:
+		
+			madctl = ST77XX_MADCTL_RGB;
+
+		break;
+		case 3:
+		
+			madctl = ST77XX_MADCTL_MX | ST77XX_MADCTL_MV | ST77XX_MADCTL_RGB;
+			
+		break;
+	}
+	LCD_command(ST77XX_MADCTL);
+	LCD_data(madctl);
+}
 
 
 void configure_port_pins(void)
@@ -361,7 +398,7 @@ void LCD_init() {
 	LCD_command(ST7735_DISPON);
 	delay_ms(100);
 	LCD_command(ST7735_MADCTL); // rotation
-    LCD_data(MADCTL_MX | MADCTL_MY | MADCTL_RGB);
+    LCD_data(MADCTL_MY | MADCTL_MV | MADCTL_RGB);
 }
 
 void LCD_drawPixel(unsigned short x, unsigned short y, unsigned short color) {
